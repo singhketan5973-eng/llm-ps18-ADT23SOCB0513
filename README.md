@@ -27,7 +27,7 @@ Students lack mock interview practice. This bot asks role-based interview questi
    streamlit run app.py
 
 ## Screenshots
-![Data Analyst question 1](daq1.png)
-![Data Analyst question 2](daq2.png)
-![Home Screen](ml.png)
-![Summary](Summary.png)
+![Data Analyst question 1](Screenshots/daq1.png)
+![Data Analyst question 2](Screenshots/daq2.png)
+![Home Screen](Screenshots/ml.png)
+![Summary](Screenshots/Summary.png)
